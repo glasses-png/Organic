@@ -52,14 +52,13 @@ color:black;
 background-color:blanchedalmond;
 height: 100%;
  width: 100%;
-
+ font-family: 'Merriweather', serif;
+font-family: 'Six Caps', sans-serif;
    
 }
 
 footer>p{
     padding: 5px;
-   
-    
 }
 
 button{
@@ -88,7 +87,7 @@ h2{
     color: chocolate;
 }
 p{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Buenard', serif;
 }
 #order{
     text-align: center;
